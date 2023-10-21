@@ -1,0 +1,41 @@
+#first{
+    margin-bottom: 60px;
+}
+
+#header{
+    font-weight: bold;
+    font-style: italic;
+    font-family: bangers;
+    font-size: 70px;
+    color: rgb(10, 137, 196);
+}
+
+img{
+    padding-bottom: 30px;
+}
+
+.col-sm-6{
+    height: 45vh;
+}
+
+.player{
+    font-size: 60px;
+    padding-bottom: 30px;
+    font-family: bangers;
+    color: rgb(10, 137, 196);
+}
+
+
+#button{
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+#names{
+    padding-bottom: 150px;
+}
+
+button{
+    font-weight: bold;
+}
+
